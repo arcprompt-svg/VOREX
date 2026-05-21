@@ -1,0 +1,6 @@
+{
+  "name": "VoreX",
+  "description": "Interactive multi-agent orchestrator simulator based on VOREX & Promptcraft-Ai Ecosystem",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
